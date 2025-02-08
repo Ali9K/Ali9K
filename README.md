@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Backend Developer and Computer Engineering Student</h3>
 
-
-focused on learning, building, and growing my skills with passion and determination, especially in backend development and programming skills, particularly in Python and Go.
-
-Skills: Python / Go / Git
-
 - 🔭 I’m currently working on an optimization problem as a practice exercise.
 - 🌱 I’m currently learning Go and Git.
 - 📫 How to reach me: ali99kalbasi82@gmail.com
