@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ali</h1>
-<h3 align="center">Junior DevOps Specialist and Computer Engineering Student</h3>
+<h3 align="center">DevOps Specialist and Computer Engineering Student</h3>
 
 - 📫 How to reach me: ali99kalbasi82@gmail.com
 
@@ -21,5 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
     </a>
 </p>
