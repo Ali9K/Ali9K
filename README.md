@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ali</h1>
-<h3 align="center">DevOps Specialist and Computer Engineering Student</h3>
+<h3 align="center">DevOps and Computer Engineering Student</h3>
 
 - 📫 How to reach me: ali99kalbasi82@gmail.com
 
